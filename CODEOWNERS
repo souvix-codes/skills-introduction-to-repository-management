@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @souvix-codes
+/src/backend/database.py      @souvix-codes
+/src/backend/routers/auth.py  @souvix-codes
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @souvix-codes
